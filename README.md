@@ -40,7 +40,7 @@ After anyone succeds in building working prototype, we will try to find qualifie
 
 # Prototype diagram
 
-![DIYRespirator logical diagram](https://user-images.githubusercontent.com/62830023/77844830-16da3680-71aa-11ea-9cd7-ea352b2bb77f.png)
+![DIYRespirator logical diagram](https://user-images.githubusercontent.com/62830023/77844882-8bad7080-71aa-11ea-90b6-caf592e37e89.png)
 
 # Operation
 
