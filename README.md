@@ -54,7 +54,7 @@ Main mode of operation:
 5. Close Valve2. 
 6. Open Valve1.
 7. Wait until pressure on PressureSensor1 where PressureSensor1Value >= X. 
-8. Arm rewind to start position if not already there. 
+8. Arm rewinds to start position if not already there. It must be quick.
 9. Close Valve1.
 10. Open Valve2.
 11. Start servo with Timer until timervalue >= t. Servo using arm mechanism pressures Ambu-Bag as patient inhale begins.
