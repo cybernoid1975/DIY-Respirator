@@ -9,7 +9,7 @@ After seeing the terrible situation in the world... Italy, Spain, Europe, US... 
 If someone can use it as basis or to fork completly new design, all that better.
 
 # Future use
-This is just a tool to help in time of need. Please note: Do understand that no respirator alone can help without qualified physician !!! 
+This is just a tool to help in time of need. Please note: Do understand that no respirator alone can help without care from qualified physician and nurses from ICU! 
 
 # Licensing
 It is open-source and free. You can use it for your own commerical or non-commerical projects.
