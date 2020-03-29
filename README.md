@@ -38,6 +38,10 @@ Currently I do not have all parts to build working prototype. I do have Arduino'
 # After building prototype
 After anyone succeds in building working prototype, we will try to find qualified physician to test the device. If they do not confirm that prototype can work or is helpful - we need to refactor this design, or abandon it for better.
 
+# Prototype Logical diagram
+
+
+
 # Prototype diagram
 
 ![DIYRespirator logical diagram](https://user-images.githubusercontent.com/62830023/77844882-8bad7080-71aa-11ea-90b6-caf592e37e89.png)
