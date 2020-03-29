@@ -70,6 +70,10 @@ Main mode of operation:
 13. Release Servo Arm. 
 14. Repeat operation, Goto step 4.
 
+# Sequence diagram
+
+To be done.
+
 # Timing diagram
 
 To be done.
