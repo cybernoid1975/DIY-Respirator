@@ -7,8 +7,9 @@ Software developer and diy-maker. Located in Belgrade, Serbia. Please note - I a
 # Motivation
 After seeing the terrible situation in the world... Italy, Spain, Europe, US... :( ... just can not sit down doing nothing. Want to help somehow. Please take all infromation from this page with caution, analysis and criticism. Would like to get your feedback and suggestions to make it better.
 If someone can use it as basis or to fork completly new design, all that better.
-This is just a tool to help in time of need. 
-Please note: Do understand that no respirator alone can help without qualified physician !!! 
+
+# Future use
+This is just a tool to help in time of need. Please note: Do understand that no respirator alone can help without qualified physician !!! 
 
 # Licensing
 It is open-source and free. You can use it for your own commerical or non-commerical projects.
