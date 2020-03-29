@@ -15,7 +15,7 @@ This is just a tool to help in time of need. Please note: Do understand that no 
 It is open-source and free. You can use it for your own commerical or non-commerical projects.
 
 # About the project
-This is general DIY diagram. It consists of mechanical and electrical parts.
+This is general DIY diagram. It consists of off the shelf mechanical and electrical parts.
 
 Mechanical parts:
 - O2 Oxygen tank
