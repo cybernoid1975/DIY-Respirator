@@ -40,11 +40,11 @@ After anyone succeds in building working prototype, we will try to find qualifie
 
 # Prototype Logical diagram
 
-
+![DIYRespirator logical diagram](https://user-images.githubusercontent.com/62830023/77845558-12188100-71b0-11ea-8539-04bc384eccb2.png)
 
 # Prototype diagram
 
-![DIYRespirator logical diagram](https://user-images.githubusercontent.com/62830023/77844882-8bad7080-71aa-11ea-90b6-caf592e37e89.png)
+![DIYRespirator diagram](https://user-images.githubusercontent.com/62830023/77844882-8bad7080-71aa-11ea-90b6-caf592e37e89.png)
 
 # Operation
 
