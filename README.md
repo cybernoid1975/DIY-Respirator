@@ -33,7 +33,7 @@ Electrical parts and controller:
 - DC servo (power rating - )
 - Arduino Uno (or Mega)
 
-# Prototype
+# Help to prototype
 Currently I do not have all parts to build working prototype. I do have Arduino's and some of the components; but I do miss Ambu Bag, solenoids, pressure sensors, servo (with proper power rating), different valves. It is not an issue to order those items but I do need for them to arrive (and there is also an issue of closed borders at this moment). If I can get some of this parts locally it would be great.
 
 # After building prototype
