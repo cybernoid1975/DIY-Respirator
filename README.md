@@ -1,5 +1,5 @@
 # PPV DIY-Respirator
-Positive Pressure Ventillator (PPV) DIY design to help patients hospitalized with ARDS/covid19 or other 
+Positive Pressure Ventillator (PPV) DIY design to help patients hospitalized with ARDS/covid19 
 
 # Who am I
 Software developer and diy-maker. Located in Belgrade, Serbia. Please note - I am not physician, doctor nor mechanical engineer. All the knowledge I have about chemistry, biology and physics is from general education. I'm not part of the team, do not have any association with some external company, institution or government.
