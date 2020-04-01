@@ -47,7 +47,7 @@ After anyone succeds in building working prototype, we will try to find qualifie
 
 ![DIYRespirator diagram](https://user-images.githubusercontent.com/62830023/77863188-b6d2a700-7220-11ea-9cef-71202a7f1ffd.png)
 
-# Proposed motor operation media 1
+# Proposed motor operation 1
 
 ![AutomatedAmbuBag-Mechanical1](https://user-images.githubusercontent.com/62830023/78190632-b2063100-7474-11ea-9ee6-68b3405d34ac.png)
 ![AutomatedAmbuBag-Mechanical2](https://user-images.githubusercontent.com/62830023/78190634-b29ec780-7474-11ea-9dd1-b303906107cb.png)
