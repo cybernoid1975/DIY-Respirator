@@ -53,7 +53,7 @@ After anyone succeds in building working prototype, we will try to find qualifie
 ![AutomatedAmbuBag-Mechanical2](https://user-images.githubusercontent.com/62830023/78190634-b29ec780-7474-11ea-9dd1-b303906107cb.png)
 ![AutomatedAmbuBag-Mechanical3](https://user-images.githubusercontent.com/62830023/78190635-b29ec780-7474-11ea-8ce2-d6b148845f15.png)
 
-[![Mechanotronics operation](https://img.youtube.com/vi/hltcisqDwtk/0.jpg)](http://www.youtube.com/watch?v=hltcisqDwtk)
+[![Mechanotronics operation]](http://www.youtube.com/watch?v=hltcisqDwtk)
 
 # Operation
 
