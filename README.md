@@ -49,6 +49,9 @@ After anyone succeds in building working prototype, we will try to find qualifie
 
 # Proposed motor operation media 1
 
+![AutomatedAmbuBag-Mechanical1](https://user-images.githubusercontent.com/62830023/78190632-b2063100-7474-11ea-9ee6-68b3405d34ac.png)
+![AutomatedAmbuBag-Mechanical2](https://user-images.githubusercontent.com/62830023/78190634-b29ec780-7474-11ea-9dd1-b303906107cb.png)
+![AutomatedAmbuBag-Mechanical3](https://user-images.githubusercontent.com/62830023/78190635-b29ec780-7474-11ea-8ce2-d6b148845f15.png)
 
 
 # Operation
