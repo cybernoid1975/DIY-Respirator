@@ -55,6 +55,9 @@ After anyone succeds in building working prototype, we will try to find qualifie
 
 [![Mechanotronics](http://img.youtube.com/vi/hltcisqDwtk/0.jpg)](http://www.youtube.com/watch?v=hltcisqDwtk "Mechanotronics")
 
+[![Mechanotronics]](http://www.youtube.com/watch?v=hltcisqDwtk)
+
+
 # Operation
 
 Startup/Initialization/Reset:
